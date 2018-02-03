@@ -1,0 +1,12 @@
+name: diss_dashboard
+title: diss_dashboard
+username:
+account: primesty
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 238039
+bundleId: 1114456
+url: https://primesty.shinyapps.io/diss_dashboard/
+when: 1512403416.7947
+asMultiple: FALSE
+asStatic: FALSE
