@@ -11,3 +11,5 @@ The development of the dashboard was informed by feedback from people along the 
 My main motivation was to make some of the data from my dissertation accessible and multimodal.
 
 https://primesty.shinyapps.io/diss_dashboard/
+
+![Diss gif](https://github.com/mraess/german_twitter_dashboard/blob/master/diss_gif.gif)
